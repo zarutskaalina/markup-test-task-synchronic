@@ -1,1 +1,0 @@
-# markup-test-task-synchronic
