@@ -9,7 +9,7 @@ module.exports = {
   mode: "development", // або 'production'
   devServer: {
     static: {
-      directory: path.join(__dirname, "src"), // тут має бути dist
+      directory: path.join(__dirname, "dist"), // тут має бути dist
     },
     compress: true,
     port: 9000,
